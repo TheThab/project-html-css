@@ -1,2 +1,2 @@
-# project-html-css
-Created my project using html+css
+
+Slider using HTML CSS and Javascript
